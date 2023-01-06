@@ -1,7 +1,7 @@
-This simple script in Python
+This Simple script in Python
 Convert images formats 
 
-The Libraries used in this script:
-os
-posixpath --> splitext
-PIL
+Libraries in the Script:
+os,
+posixpath --> splitext,
+PIL.
