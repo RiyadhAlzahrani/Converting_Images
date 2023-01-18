@@ -1,6 +1,12 @@
-# Simple script in Python Convert images formats 
+# Converte Img Format
+Simple Script in Python
+Convert images formats 
 
-Libraries in the Script:
-os,
-posixpath --> splitext,
-PIL.
+# Library
+[Pillow](https://pillow.readthedocs.io/en/stable/index.html) (PIL) 9.4.0
+
+# Formats
+* PNG
+* ICO
+* JPEG
+>Note: This is not the only format avalible, but this the only formats that has been tested
